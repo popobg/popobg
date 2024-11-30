@@ -16,6 +16,7 @@
 - CSS3
 - JavaScript
 - SQL & MongoDB
+
 In the works : Angular and Vue.js
 
 ---
