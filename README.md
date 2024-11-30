@@ -1,8 +1,6 @@
-<center>
-<h2>✨ Hi there! ✨</h2>
+<h2 align="center">✨ Hi there! ✨</h2>
 
-<h3>Welcome to my Github profile 🤝</h3>
-</center>
+<h3 align="center">Welcome to my Github profile 🤝</h3>
 
 ## 👋 Presentation 👋
 - 🌍 Based in **Toulouse**, France
@@ -61,6 +59,4 @@
 </div>
 
 ---
-<center>
-<h3><i>Till we meet again...</i></h3>
-</center>
+<h3 align="center"><i>Till we meet again...</i></h3>
