@@ -12,8 +12,8 @@
 
 ### Version control & cloud
 <div>
-    <code><img height="80" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/git.svg" alt="Git" title="Git"></code>
-    <code><img height="75" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/cloud/github.svg" alt="GitHub" title="GitHub"></code>
+    <code><img height="80" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.svg" alt="Git" title="Git"></code>
+    <code><img height="75" src="https://github.com/user-attachments/assets/50ec9435-d44e-479a-acf1-c2400cf8c745" alt="GitHub" title="GitHub"></code>
 </div>
 
 <br>
