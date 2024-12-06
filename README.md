@@ -55,7 +55,7 @@
 ### OS
 <div>
     <code><img height="70" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/social%20icons/windows.svg" alt="Windows" title="Windows"></code>
-    <code><img height="70" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/social%20icons/linux.svg" alt="Linux" title="Linux"></code>
+    <code><img height="70" src="https://www.debian.org/logos/openlogo.svg" alt="Debian" title="Debian"></code>
 </div>
 
 ---
