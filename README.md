@@ -4,8 +4,8 @@
 
 ## 👋 Presentation 👋
 - 🌍 Based in **Toulouse**, France
-- 💪 Currently in training and working as an **app designer-developer apprentice**
-- 🎨 Passinate about **drawing**, **coding**, **creating**! More than anything, love to **learn and share**.
+- 💪 Currently in training and working as an **app designer-developer**
+- 🎨 Passionate about **drawing**, **coding**, **creating**! More than anything, love to **learn and share**.
 - 🎮 Not gonna lie, love **gaming** too
 
 ## 💻 Current Stack 💻
