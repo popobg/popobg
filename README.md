@@ -47,13 +47,13 @@
     <code><img height="45" src="./images/ms-sql-server.png" alt="Microsoft SQL Server" title="Microsoft SQL Server"></code>
     <code><img height="80" src="images/mongodb.svg" alt="MongoDB" title="MongoDB"></code>
     <code><img height="75" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/databases/postgresql.svg" alt="PostgreSQL" title="PostgreSQL"></code>
-    
 </div>
 
 <br>
 
 ### OS
 <div>
+    <code><img height="70" src="./images/ubuntu.jpg" alt="Ubuntu" title="Ubuntu"></code>
     <code><img height="70" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/social%20icons/windows.svg" alt="Windows" title="Windows"></code>
     <code><img height="70" src="https://www.debian.org/logos/openlogo.svg" alt="Debian" title="Debian"></code>
 </div>
