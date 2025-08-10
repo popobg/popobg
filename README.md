@@ -14,6 +14,7 @@
 <div>
     <code><img height="30" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.svg" alt="Git" title="Git"></code>
     <code><img height="60" src="images/github-logo.png" alt="GitHub" title="GitHub"></code>
+    <code><img height="60" src="images/gitlab.svg" alt="Gitlab" title="Gitlab"></code>
 </div>
 
 <br>
@@ -43,10 +44,10 @@
 
 ### Databases
 <div>
+    <code><img height="75" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/databases/postgresql.svg" alt="PostgreSQL" title="PostgreSQL"></code>
     <code><img height="75" src="./images/mariadb-icon-svgrepo-com.svg" alt="MariaDB" title="MariaDB"></code>
     <code><img height="45" src="./images/ms-sql-server.png" alt="Microsoft SQL Server" title="Microsoft SQL Server"></code>
     <code><img height="80" src="images/mongodb.svg" alt="MongoDB" title="MongoDB"></code>
-    <code><img height="75" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/databases/postgresql.svg" alt="PostgreSQL" title="PostgreSQL"></code>
 </div>
 
 <br>
