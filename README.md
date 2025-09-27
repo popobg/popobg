@@ -2,13 +2,13 @@
 
 <h3 align="center">Welcome to my Github profile 🤝</h3>
 
-## 👋 Presentation 👋
+## Presentation
 - 🌍 Based in **Toulouse**, France
 - 💪 Currently in training and working as an **app designer-developer**
 - 🎨 Passionate about **drawing**, **coding**, **creating**! More than anything, love to **learn and share**.
 - 🎮 Love **gaming** too
 
-## 💻 Current Stack 💻
+## Current Stack
 
 ### Version control & cloud
 <div>
