@@ -8,7 +8,7 @@
 - 🎨 Passionate about **drawing**, **coding**, **creating**! More than anything, love to **learn and share**.
 - 🎮 Love **gaming** too
 
-## Current Stack
+## Stack
 
 ### Version control & cloud
 <div>
